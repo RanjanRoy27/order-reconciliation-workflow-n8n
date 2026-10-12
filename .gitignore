@@ -1,0 +1,15 @@
+# Local source material and earlier drafts
+/assesments/
+/buildv1/
+/Cast Study File/
+/v2/
+
+# Video and generated media
+*.mp4
+*.mov
+*.webm
+*.mkv
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
